@@ -1,0 +1,10 @@
+{
+	"id": "org.apache.cordova.webos.kitchensink",
+	"version": "0.0.1",
+	"vendor": "Palm",
+	"type": "web",
+	"main": "index.html",
+	"title": "Cordova WebOS Kitchen Sink",
+	"icon": "cordova_48.png",
+	"uiRevision": 2
+}
